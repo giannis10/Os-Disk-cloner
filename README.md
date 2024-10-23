@@ -1,7 +1,7 @@
 # Os-Disk-cloner
 This sh program clone disk Os to other disk BackUp Os
 
-#Use this Sh file:
+# Use this Sh file:
 First check to if to rsync with: rsync --version  if this comand rsync --version   not found rsync   install it with   sudo apt install rsync
 
 Create script: nano clone_disk.sh
